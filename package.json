@@ -1,0 +1,21 @@
+{
+  "name": "umi-plugin-ecma5-validator",
+  "version": "0.0.1-alpha.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umijs/umi-plugin-ecma5-validator"
+  },
+  "homepage": "https://github.com/umijs/umi-plugin-ecma5-validator",
+  "authors": [
+    "chencheng <sorrycc@gmail.com> (https://github.com/sorrycc)"
+  ],
+  "bugs": {
+    "url": "https://github.com/umijs/umi-plugin-ecma5-validator/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/code-frame": "^7.0.0",
+    "acorn": "^5.7.2",
+    "chalk": "^2.4.1"
+  }
+}
