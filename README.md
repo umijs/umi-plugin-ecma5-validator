@@ -34,15 +34,15 @@ Specify the option for [acorn](https://github.com/acornjs/acorn).
 
 In browser,
 
-<img src="https://gw.alipayobjects.com/zos/rmsportal/UKOCnQFrJIFXejHDbeMc.png" />
+<img src="https://gw.alipayobjects.com/zos/rmsportal/UKOCnQFrJIFXejHDbeMc.png" width="638" />
 
 In command,
 
-<img src="https://gw.alipayobjects.com/zos/rmsportal/gGGbCONYdUVZNgvWEhWT.png" />
+<img src="https://gw.alipayobjects.com/zos/rmsportal/gGGbCONYdUVZNgvWEhWT.png" width="810" />
 
 In command without compress,
 
-<img src="https://gw.alipayobjects.com/zos/rmsportal/FRsefIYiXqUQaFnWnMCl.png" />
+<img src="https://gw.alipayobjects.com/zos/rmsportal/FRsefIYiXqUQaFnWnMCl.png" width="541" />
 
 ## LICENSE
 
