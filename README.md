@@ -44,6 +44,12 @@ In command without compress,
 
 <img src="https://gw.alipayobjects.com/zos/rmsportal/FRsefIYiXqUQaFnWnMCl.png" width="541" />
 
+## Why this package exist?
+
+To avoid cases like these,
+
+<img src="https://gw.alipayobjects.com/zos/rmsportal/hnhsKMQPjxChymfDETUT.png" width="1246" />
+
 ## LICENSE
 
 MIT
